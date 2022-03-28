@@ -1,8 +1,8 @@
 {
    "piechart": [
-      { y: 50, x: "A" },
-      { y: 25, x: "B" },
-      { y: 25, x: "C" }
+      { "y": 50, "x": "A" },
+      { "y": 25, "x": "B" },
+      { "y": 25, "x": "C" }
     ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
