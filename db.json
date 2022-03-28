@@ -1,9 +1,8 @@
 {
-  "piechart": [
-    { "x": 1, "y": 4 },
-    { "x": 2, "y": 5 },
-    { "x": 3, "y": 6 }
-  ],
+  "commentsnew": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
