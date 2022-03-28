@@ -1,9 +1,10 @@
 {
-   "piechart": [
-    { "x": 1, "y": 4 },
-    { "x": 2, "y": 5 },
-    { "x": 3, "y": 6 }
-  ],
+   "piechart": 
+   [
+      { y: 50, x: 'A' },
+      { y: 25, x: 'B' },
+      { y: 25, x: 'C' }
+    ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
