@@ -1,11 +1,14 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-}}
+}
