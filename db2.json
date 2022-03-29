@@ -4,10 +4,10 @@
       "chartData": [
         {
           "legend": "one",
-          "horizontalBarChartdata": { x: 1543, y: 15000 },
+          "horizontalBarChartdata": { "x": 1543, "y": 15000 },
           "color": "DefaultPalette.tealDark",
           "xAxisCalloutData": "2020/04/30",
-          "yAxisCalloutData": '94%',
+          "yAxisCalloutData": "94%",
         },
       ],
     },
